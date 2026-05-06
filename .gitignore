@@ -1,0 +1,10 @@
+# Entorno virtual
+retail_scoring_env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos sensibles
+.env
