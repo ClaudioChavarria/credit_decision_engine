@@ -38,8 +38,7 @@ El repositorio del proyecto sigue una arquitectura estándar y escalable para pr
 
 ## III. Metodología (CRISP-DM)
 
-El proyecto se rige estrictamente por la metodología estándar de la industria **CRISP-DM** (Cross-Industry Standard Process for Data Mining). A continuación se explican a detalle las fases desarrolladas:
-# Metodología del Proyecto (CRISP-DM)
+El proyecto se rige estrictamente por la metodología estándar de la industria **CRISP-DM** (Cross-Industry Standard Process for Data Mining)
 
 
 ## IV. Pasos para la Configuración y Ejecución
