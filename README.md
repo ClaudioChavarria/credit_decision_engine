@@ -41,19 +41,7 @@ El repositorio del proyecto sigue una arquitectura estándar y escalable para pr
 El proyecto se rige estrictamente por la metodología estándar de la industria **CRISP-DM** (Cross-Industry Standard Process for Data Mining)
 
 
-## IV. Pasos para la Configuración y Ejecución
+## Contacto
 
-Para reproducir el entorno, ejecutar los cuadernos de análisis o levantar la aplicación localmente, siga estos pasos:
-
-### 1. Clonar el repositorio y navegar a la raíz
-Abra su consola de preferencia y diríjase a la carpeta del proyecto.
-
-### 2. Activar el entorno virtual
-cree un entorno y utilice requirements.txt :
-
-```bash
-# Para entornos basados en Linux/Mac
-source retail_scoring_env/bin/activate
-
-# Para entornos basados en Windows
-retail_scoring_env\Scripts\activate
+Conectemos en LinkedIn:  
+[Claudio Chavarría](https://www.linkedin.com/in/claudiochavarria/)
